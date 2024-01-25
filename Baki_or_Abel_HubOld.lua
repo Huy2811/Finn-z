@@ -66,12 +66,12 @@ if _G.TaoCuttay then
     h["CuttayV4"] = true
 end
 HttpService = game:GetService("HttpService")
-local i = "Adel Hub"
+local i = "Finn hub"
 local j = "-BloxFruit.json"
 local l = game.Players.LocalPlayer.Name .. j
 if Adel then
     HttpService = game:GetService("HttpService")
-    local i = "Adel Hub"
+    local i = "Finn hub"
     local j = "-BloxFruit.json"
     local l = game.Players.LocalPlayer.Name .. j
 end
